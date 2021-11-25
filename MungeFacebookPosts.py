@@ -50,9 +50,11 @@ def main():
     splitReChars = list(re.sub(r'[A-Za-z]', '', txtInput))
 
     # Convert this list into a unique set of characters, then join them to create a regex pattern
+    splitPattern = ''.join(list(set(splitReChars)))
+    splitPattern = re.sub(r'([\[\]\-\(\)])', r'\\\1', splitPattern)
+
     # and use this pattern to extract only the words from the input
-    splitReWords = re.split(
-        '[' + ''.join(list(set(splitReChars))) + ']', txtInput)
+    splitReWords = re.split('[' + splitPattern + ']', txtInput)
 
     # Using the words (composed of alpha-only) in the input text
     # perform the munging operation by calling the function we defined above on each
