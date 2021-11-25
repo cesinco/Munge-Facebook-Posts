@@ -28,7 +28,7 @@ Any recent version 3.x of Python, which includes regex and numpy libraries insta
 Enter text to be munged/mangled for posting to Facebook:
 
 Hello World! This is an attempt to munge text when posting to Facebook, specifically to mangle words that ***might*** be "misconstrued" as abusive language.
-Hlleo Wlrod! Tihs is an atetmpt to mnuge txet wehn positng to Focebaok, specfilcaliy to mgnale wrods taht ***mgiht*** be "msieonstrucd" as abisuve lagguane.
+Hlelo Wolrd! Tihs is an attepmt to mnuge txet wehn poitsng to Faceobok, spicifeaclly to mnagle wrods taht ***mhgit*** be "misocnstured" as avusibe lgnauage.
 ```
 
 ### A quote from one of my favorite authors and magicians, Penn Jillette
@@ -36,14 +36,12 @@ Hlleo Wlrod! Tihs is an atetmpt to mnuge txet wehn positng to Focebaok, specfilc
 ```
 Enter text to be munged/mangled for posting to Facebook:
 
-"The question I get asked by religious people all the time is, without God, what's to stop me from raping all I want? And my answer is: I do rape all I want. And the amount
-I want is zero. And I do murder all I want, and the amount I want is zero. The fact that these people think that if they didn't have this person watching over them that they would go on killing, raping rampages is the most self-damning thing I can imagine."
-"The qiestuon I get aeksd by regilious ppoele all the tmie is, witohut God, w'aths to sotp me form raipng all I wnat? And my aeswnr is: I do rpae all I wnat. And the auomnt
-I wnat is zreo. And I do mudrer all I wnat, and the aomunt I wnat is zreo. The fcat taht thsee plopee tihnk taht if tehy dndi't hvae tihs peosrn witchang oevr tehm taht tehy wuold go on kliling, rpaing rmapages is the msot sdlf-eimnang thnig I can imaigne."
+"The question I get asked by religious people all the time is, without God, what's to stop me from raping all I want? And my answer is: I do rape all I want. And the amount I want is zero. And I do murder all I want, and the amount I want is zero. The fact that these people think that if they didn't have this person watching over them that they would go on killing, raping rampages is the most self-damning thing I can imagine."
+"The quesoitn I get aeksd by religuois plopee all the tmie is, wtihout God, waht's to sotp me form ranipg all I wnat? And my anewsr is: I do rpae all I wnat. And the amonut I wnat is zreo. And I do merdur all I wnat, and the amnuot I wnat is zreo. The fcat taht tehse peolpe tihnk taht if tehy ddin't hvae tihs pesron witchang oevr tehm taht tehy wluod go on killnig, raipng raepagms is the msot slef-dnmaing tihng I can imigane."
 ```
 
 ### A quote from another one of my favorite authors and thinkers, Sam Harris, but this time, just the mangled/munged version
 
 ```
-"The presdient of the Unetid Stetas has calimed, on mroe tahn one oicascon, to be in doaligue wtih God. If he siad taht he was talnikg to God tgrouhh his hdiraryer, tihs wolud prtcipitaee a natnoial ecergenmy. I fial to see how the aiditdon of a hairyrder maeks the cliam mroe rioiculdus or onfefsive."
+"The prdsieent of the Unetid Stetas has cialmed, on mroe tahn one occisaon, to be in dialouge wtih God. If he siad taht he was tnlkiag to God turohgh his haridryer, tihs wuold pricepitate a natnoial emergnecy. I fial to see how the addition of a haerdryir mekas the cliam mroe ricidulous or ofiensfve."
 ```
