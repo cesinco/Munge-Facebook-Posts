@@ -47,7 +47,10 @@ def main():
     txtInput = input()
 
     # Get a list of "delimiter" characters (basically anything non-alpha) from the input
-    splitReChars = list(re.sub(r'[A-Za-z]', '', txtInput))
+    # splitReChars = list(re.sub(r'[A-Za-z]', '', txtInput))
+    # Don't limit the characters to just the Latin character set (as above), but include Unicode as well
+    # See section "Set Operators" at https://pypi.org/project/regex/
+    splitReChars = list(re.sub('[\p{L}]', '', txtInput))
 
     # Convert this list into a unique set of characters, then join them to create a regex pattern
     splitPattern = ''.join(list(set(splitReChars)))
