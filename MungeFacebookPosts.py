@@ -54,7 +54,7 @@ def main():
 
     # Convert this list into a unique set of characters, then join them to create a regex pattern
     splitPattern = ''.join(list(set(splitReChars)))
-    splitPattern = re.sub(r'([\[\]\-\(\)])', r'\\\1', splitPattern)
+    splitPattern = re.sub(r'([\[\]\-\(\)\\])', r'\\\1', splitPattern)
 
     # and use this pattern to extract only the words from the input
     splitReWords = re.split('[' + splitPattern + ']', txtInput)
